@@ -1,3 +1,0 @@
-praw
-time
-async-timeout==3.0.1
